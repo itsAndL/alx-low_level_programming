@@ -3,10 +3,7 @@
 
 #include <stdio.h>
 
-/**
- * main - tests function that prints if integer is positive or negative or zero
- * Return: 0
- */
 void positive_or_negative(int i);
+int largest_number(int a, int b, int c);
 
 #endif /* MAIN_H */
