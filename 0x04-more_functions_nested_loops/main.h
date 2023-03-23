@@ -5,3 +5,4 @@
  * Return: 1 if c is uppercase, or 0 otherwise
  */
 int _isupper(char c);
+int mul(int a, int b);
