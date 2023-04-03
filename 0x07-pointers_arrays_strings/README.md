@@ -16,8 +16,8 @@
 >
 >
 > ### Advanced Tasks
-> 8. Double pointer, double fun
-> 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
+> 8. [Double pointer, double fun](https://github.com/itsAndL/alx-low_level_programming/blob/8aa78ddf90953cdaf56b72fe66ce2e3dec0b24ec/0x07-pointers_arrays_strings/100-set_string.c)
+> 9. [My primary goal of hacking was the intellectual curiosity, the seduction of adventure](https://github.com/itsAndL/alx-low_level_programming/blob/8aa78ddf90953cdaf56b72fe66ce2e3dec0b24ec/0x07-pointers_arrays_strings/101-crackme_password)
 >
 >
 
