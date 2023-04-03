@@ -5,7 +5,7 @@
 
 >
 > ### Mandatory Tasks
-> 0. memset
+> [0. memset](https://github.com/itsAndL/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/0-memset.c)
 > 1. memcpy
 > 2. strchr
 > 3. strspn
