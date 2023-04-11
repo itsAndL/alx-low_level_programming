@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
  * create_array - create array of chars and initialize with a specific char
@@ -8,7 +8,6 @@
  * @c: fill array values with this char
  * Return: pointer to array
  */
-
 char *create_array(unsigned int size, char c)
 {
 	char *arr;
